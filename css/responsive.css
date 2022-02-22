@@ -103,4 +103,20 @@
     textarea {
         width: 200px;
     }
+    .capa {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .servicosConteudo {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .servicosConteudo2 {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .servicosConteudo3 {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
 }
