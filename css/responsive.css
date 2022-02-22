@@ -1,6 +1,6 @@
 @media screen and (max-width:1000px) {
     nav {
-        padding-top: 0%;
+        padding-top: 2%;
         margin-top: 0%;
         flex-direction: column;
         align-items: center;
@@ -12,20 +12,20 @@
     .navcenter {
         padding: 0%;
         margin: 0%;
-        width: 100px;
+        width: 100%;
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
     }
     .links {
+        width: 100%;
         padding: 0%;
         margin: 0%;
         display: flex;
         flex-direction: row;
         align-items: center;
         justify-content: center;
-        width: 100%;
     }
     button {
         font-size: 15px;
@@ -136,11 +136,5 @@
     form {
         padding-left: 2%;
         padding-right: 2%;
-    }
-}
-
-@media screen and (max-width:350px) {
-    .iconsContato {
-        font-size: 10px;
     }
 }
